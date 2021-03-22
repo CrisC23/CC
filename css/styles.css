@@ -48,6 +48,6 @@ h3 {
 
 .computer{
   position: relative;
-  height: 10%;
-  width : 10%;
+  max-width: 100%; 
+  height: auto;
 }
